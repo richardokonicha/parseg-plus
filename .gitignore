@@ -1,0 +1,13 @@
+__pycache__/*
+.env
+*.session
+extra/*
+parsigenv/*
+prod.env.sample
+env/*
+name.session-journal
+venv/*
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore

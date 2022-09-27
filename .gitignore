@@ -1,0 +1,11 @@
+__pycache__/*
+.env
+*.session
+extra/*
+.vscode/*
+parsigenv/*
+.vscode/*
+prod.env.sample
+env/*
+name.session-journal
+venv/*
